@@ -1,0 +1,9 @@
+title: "MelGAN"
+tagline: "Generative Adversarial Networks for Conditional Waveform Synthesis."
+baseurl: "/melgan"
+arxiv: "TODO"
+repo:  "https://github.com/melgan-neurips/melgan-neurips.github.io"
+author:
+  name:
+  url:
+markdown: kramdown
